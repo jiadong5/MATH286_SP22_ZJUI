@@ -1,4 +1,4 @@
-# MATH286_ZJUI_SP22
+# MATH286_SP22_ZJUI
 # The files are uploaded to be a referance and additional materials for learning of MATH286 Introduction to ODE Plus Pro Max taught by ZJU ISEE professor Thomas Honold. Anything that the downloaders of those files do which violates UIUC Academic Intergrity should be responsibility of the downloaders themselves, If some issues related to academic intergrity did happen, I will do my best cooperating with ZJU staffs.
 # § 1‑401 POLICY STATEMENT; APPLICATION; DEFINITIONS
 ## Policy Statement. The university has the responsibility for maintaining academic integrity so as to protect the quality of education and research on our campus and to protect those who depend upon our integrity.
